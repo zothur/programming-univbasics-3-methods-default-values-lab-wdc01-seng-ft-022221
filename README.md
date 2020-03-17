@@ -1,4 +1,4 @@
-# Meal Choice Lab
+# Default Values: Meal Choice Lab
 
 ## Learning Goals
 
