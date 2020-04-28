@@ -100,7 +100,7 @@ With this, we've output all the messages and solved the first test in this lab. 
 is still something else needed, though - remember that `puts` statements return `nil`:
 
 ```sh
-2.6.1 :003 > puts Hello!
+2.6.1 :003 > puts "Hello!"
 Hello!
  => nil
 ```
